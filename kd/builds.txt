@@ -1,6 +1,6 @@
 name="eminence kodi kids 20"
 version="1.0"
-url=""
+url="https://www.dropbox.com/s/g0lwtf4j5vvsy1d/enimce%20kids.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="20"
